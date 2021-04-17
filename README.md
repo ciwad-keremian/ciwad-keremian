@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ciwad-keremian
+- 👀 I’m interested in python
+- 🌱 I’m currently learning machine learning with python
+- 💞️ I’m looking to collaborate on writhing game with python
+- 📫 E-mail address: ciwadkeremian@gmail.com
